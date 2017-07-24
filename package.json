@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo-timbrado-ws",
+  "version": "1.0.0",
+  "description": "Ejemplo de conexión al servicio de timbrado de Facturación Moderna",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [
+    "timbrado",
+    "webservice",
+    "facturacionmoderna"
+  ],
+  "author": "Facturacion Moderna",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "co": "^4.6.0",
+    "moment-timezone": "^0.5.7",
+    "soap": "^0.17.0"
+  }
+}
